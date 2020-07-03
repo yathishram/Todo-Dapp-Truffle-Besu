@@ -12,7 +12,7 @@ To run the Todo on besu
 5. Compile the contract
    ```truffle compile```
 6. Deploy the contract to besu dev network
-   ```truffle migrate --network=besu --reset
+   ```truffle migrate --network=besu --reset```
 7. To run the client application
    ```cd client && npm install```
    ```npm run start```
